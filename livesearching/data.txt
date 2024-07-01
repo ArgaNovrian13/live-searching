@@ -1,0 +1,7 @@
+No,Nama,Umur,Email
+1,Andi,25 Tahun,andi@gmail.com
+2,Budi,30 Tahun,budi@gmail.com
+3,Citra,22 Tahun,citra@gmail.com
+4,Dewi,28 Tahun,dewi@gmail.com
+5,Eka,33 Tahun,eka@gmail.com
+6,Faiz,26 Tahun,faiz@gmail.com
